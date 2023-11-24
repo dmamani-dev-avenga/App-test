@@ -1,0 +1,31 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-demoamplify-dev-161612-authRole",
+      "UnauthRoleArn": "arn:aws:iam::223958010698:role/amplify-demoamplify-dev-161612-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::223958010698:role/amplify-demoamplify-dev-161612-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-demoamplify-dev-161612-deployment",
+      "UnauthRoleName": "amplify-demoamplify-dev-161612-unauthRole",
+      "StackName": "amplify-demoamplify-dev-161612",
+      "StackId": "arn:aws:cloudformation:us-east-1:223958010698:stack/amplify-demoamplify-dev-161612/d7604c60-5657-11ee-a794-0a4c2cd64f5d",
+      "AmplifyAppId": "d2z0e7l40kje54"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2z0e7l40kje54",
+          "type": "manual"
+        }
+      },
+      "auth": {
+        "customuilogin50eac6e2": {
+          "userPoolId": "us-east-1_JSGrwY8pL",
+          "userPoolName": "emergencias-idp-dev",
+          "webClientId": "75mr906vu61ajhbub8i80fubcd",
+          "nativeClientId": "75mr906vu61ajhbub8i80fubcd"
+        }
+      }
+    }
+  }
+}

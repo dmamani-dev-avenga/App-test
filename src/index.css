@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Hide password visibility toggle button from Edge and Safari */
+.passInput::-ms-reveal,
+.passInput::-ms-clear {
+ display: none;
+}
